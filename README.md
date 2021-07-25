@@ -8,7 +8,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
   #### Code With Chris:
   * [CodeWithChris](https://codewithchris.com/)
 
-  #### Sean Allen <img src="logos/seanallen.png" width="32" />:
+  #### Sean Allen <img src="logos/seanallen.png" width="16" />:
   * [SwiftUI Fundamentals](https://seanallen.teachable.com/p/swiftui-fundamentals)
   * [Dub Dub Grub SwiftUI MapKit, CloudKit](https://seanallen.teachable.com/p/dub-dub-grub-swiftui-mapkit-cloudkit)
 
