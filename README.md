@@ -15,3 +15,6 @@ I've created this repo to share my learning path for iOS development with SwiftU
   * [SwiftUI Mastery Travel Discovery](https://www.letsbuildthatapp.com/course/SwiftUI%20Mastery%20Travel%20Discovery)
   * [Maps UIKit SwiftUI](https://www.letsbuildthatapp.com/course/Maps%20UIKit%20SwiftUI)
   * [SwiftUI Core Data Money Tracker with iPad Support](https://www.letsbuildthatapp.com/course/SwiftUI%20Core%20Data%20Money%20Tracker%20with%20iPad%20Support)
+
+  #### Udemy:
+  * [SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
