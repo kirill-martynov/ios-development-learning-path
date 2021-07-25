@@ -8,7 +8,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
   #### Code With Chris:
   * [CodeWithChris](https://codewithchris.com/)
 
-  #### Sean Allen <img src="logos/seanallen.png" width="16" />:
+  #### <img src="logos/seanallen.png" width="16" /> Sean Allen :
   * [SwiftUI Fundamentals](https://seanallen.teachable.com/p/swiftui-fundamentals)
   * [Dub Dub Grub SwiftUI MapKit, CloudKit](https://seanallen.teachable.com/p/dub-dub-grub-swiftui-mapkit-cloudkit)
 
@@ -17,14 +17,14 @@ I've created this repo to share my learning path for iOS development with SwiftU
   * [Maps UIKit SwiftUI](https://www.letsbuildthatapp.com/course/Maps%20UIKit%20SwiftUI)
   * [SwiftUI Core Data Money Tracker with iPad Support](https://www.letsbuildthatapp.com/course/SwiftUI%20Core%20Data%20Money%20Tracker%20with%20iPad%20Support)
 
-  #### Udemy:
+  #### <img src="logos/udemy.png" width="16" /> Udemy:
   * [SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
   * [MVVM Design Pattern in iOS Using SwiftUI](https://www.udemy.com/course/swiftui-the-complete-developer-course/)
   * [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/)
   * [SwiftUI - The Complete Developers Bible and Cookbook of Code](https://www.udemy.com/course/swiftui-the-complete-developer-course/)
   * [SwiftUI Animations - Animate almost anything with SwiftUI](https://www.udemy.com/course/swiftui_animations/)
 
-  #### Ray Wenderlich:
+  #### <img src="logos/raywenderlich.png" width="16" /> Ray Wenderlich:
   * iOS and SwiftUI for beginners:
     * [Your First iOS and SwiftUI App: An App From Scratch](https://www.raywenderlich.com/17493408-your-first-ios-and-swiftui-app-an-app-from-scratch)
     * [Your First iOS and SwiftUI App: Polishing the App](https://www.raywenderlich.com/18176818-your-first-ios-and-swiftui-app-polishing-the-app)
@@ -59,7 +59,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
 
 ### Books:
 
- #### Ray Wenderlich:
+ #### <img src="logos/raywenderlich.png" width="16" /> Ray Wenderlich:
   * [SwiftUI Apprentice](https://www.raywenderlich.com/books/swiftui-apprentice)
   * [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice)
   * [SwiftUI by Tutorials](https://www.raywenderlich.com/books/swiftui-by-tutorials)
