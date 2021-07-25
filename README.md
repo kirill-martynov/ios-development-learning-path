@@ -30,3 +30,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
   * [Programming in Swift: Fundamentals](https://www.raywenderlich.com/5539282-programming-in-swift-fundamentals)
   * [Programming in Swift: Functions and Types](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types)
   * [Your Second iOS and SwiftUI App](https://www.raywenderlich.com/15234721-your-second-ios-and-swiftui-app)
+
+
+  #### Youtube:
+  * [SwiftUI Crypto App](https://www.youtube.com/watch?v=TTYKL6CfbSs&list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu&ab_channel=SwiftfulThinking)
