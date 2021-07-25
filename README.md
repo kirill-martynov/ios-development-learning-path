@@ -4,6 +4,7 @@ Hey 👋<br />
 I've created this repo to share my learning path for iOS development with SwiftUI.
 
 ### Courses:
+
   #### Code With Chris:
   * [CodeWithChris](https://codewithchris.com/)
 
@@ -34,3 +35,19 @@ I've created this repo to share my learning path for iOS development with SwiftU
 
   #### Youtube:
   * [SwiftUI Crypto App](https://www.youtube.com/watch?v=TTYKL6CfbSs&list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu&ab_channel=SwiftfulThinking)
+  * [SwiftUI Bootcamp: Learn SwiftUI online for FREE](https://www.youtube.com/watch?v=-Yp0LS61Nxk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&ab_channel=SwiftfulThinking)
+  * [SwiftUI Continued Learning](https://www.youtube.com/watch?v=S5e1eXL8Vpk&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&ab_channel=SwiftfulThinking)
+
+  #### Other:
+  * [POINT FREE](https://www.pointfree.co/)
+
+
+### Books:
+
+ #### Ray Wenderlich:
+  * [SwiftUI Apprentice](https://www.raywenderlich.com/books/swiftui-apprentice)
+  * [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice)
+  * [SwiftUI by Tutorials](https://www.raywenderlich.com/books/swiftui-by-tutorials)
+
+ #### objc:
+  * [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)
