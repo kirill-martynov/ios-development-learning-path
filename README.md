@@ -5,7 +5,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
 
 ### Courses:
 
-  #### Code With Chris:
+  #### <img src="logos/codewithchris.png" width="16" /> Code With Chris:
   * [CodeWithChris](https://codewithchris.com/)
 
   #### <img src="logos/seanallen.png" width="16" /> Sean Allen :
