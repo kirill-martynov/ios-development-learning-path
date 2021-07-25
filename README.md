@@ -41,6 +41,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
   #### Other:
   * [POINT FREE](https://www.pointfree.co/)
 
+---
 
 ### Books:
 
