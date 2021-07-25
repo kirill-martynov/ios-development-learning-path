@@ -25,12 +25,26 @@ I've created this repo to share my learning path for iOS development with SwiftU
   * [SwiftUI Animations - Animate almost anything with SwiftUI](https://www.udemy.com/course/swiftui_animations/)
 
   #### Ray Wenderlich:
-  * [Your First iOS and SwiftUI App: An App From Scratch](https://www.raywenderlich.com/17493408-your-first-ios-and-swiftui-app-an-app-from-scratch)
-  * [Your First iOS and SwiftUI App: Polishing the App](https://www.raywenderlich.com/18176818-your-first-ios-and-swiftui-app-polishing-the-app)
-  * [Your First iOS and SwiftUI App: Designing the App](https://www.raywenderlich.com/17740710-your-first-ios-and-swiftui-app-designing-the-app-optional)
-  * [Programming in Swift: Fundamentals](https://www.raywenderlich.com/5539282-programming-in-swift-fundamentals)
-  * [Programming in Swift: Functions and Types](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types)
-  * [Your Second iOS and SwiftUI App](https://www.raywenderlich.com/15234721-your-second-ios-and-swiftui-app)
+  * iOS and SwiftUI for beginners:
+    * [Your First iOS and SwiftUI App: An App From Scratch](https://www.raywenderlich.com/17493408-your-first-ios-and-swiftui-app-an-app-from-scratch)
+    * [Your First iOS and SwiftUI App: Polishing the App](https://www.raywenderlich.com/18176818-your-first-ios-and-swiftui-app-polishing-the-app)
+    * [Your First iOS and SwiftUI App: Designing the App](https://www.raywenderlich.com/17740710-your-first-ios-and-swiftui-app-designing-the-app-optional)
+    * [Programming in Swift: Fundamentals](https://www.raywenderlich.com/5539282-programming-in-swift-fundamentals)
+    * [Programming in Swift: Functions and Types](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types)
+    * [Your Second iOS and SwiftUI App](https://www.raywenderlich.com/15234721-your-second-ios-and-swiftui-app)
+
+  * iOS User Interfaces with SwiftUI:
+    * [SwiftUI Fundamentals](https://www.raywenderlich.com/18272812-swiftui-fundamentals)
+    * [SwiftUI: Layout & Interfaces](https://www.raywenderlich.com/17314449-swiftui-layout-interfaces)
+    * [SwiftUI Animations](https://www.raywenderlich.com/18411672-swiftui-animation)
+    * [SwiftUI Maps & Location Fundamentals](https://www.raywenderlich.com/14255236-swiftui-maps-location-fundamentals)
+  
+  * iOS Data and Networking:
+    * [Saving Data in iOS](https://www.raywenderlich.com/5429634-saving-data-in-ios)
+    * [Beginning Core Data](https://www.raywenderlich.com/10794954-beginning-core-data)
+    * [Networking with URLSession](https://www.raywenderlich.com/10376245-networking-with-urlsession)
+    * [iOS Concurrency with GCD and Operations](https://www.raywenderlich.com/9461083-ios-concurrency-with-gcd-and-operations)
+    * [Reactive Programming in iOS with Combine](https://www.raywenderlich.com/5429795-reactive-programming-in-ios-with-combine)
 
 
   #### Youtube:
