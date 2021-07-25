@@ -18,3 +18,7 @@ I've created this repo to share my learning path for iOS development with SwiftU
 
   #### Udemy:
   * [SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
+  * [MVVM Design Pattern in iOS Using SwiftUI](https://www.udemy.com/course/swiftui-the-complete-developer-course/)
+  * [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/)
+  * [SwiftUI - The Complete Developers Bible and Cookbook of Code](https://www.udemy.com/course/swiftui-the-complete-developer-course/)
+  * [SwiftUI Animations - Animate almost anything with SwiftUI](https://www.udemy.com/course/swiftui_animations/)
