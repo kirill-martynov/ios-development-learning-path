@@ -51,6 +51,10 @@ I've created this repo to share my learning path for iOS development with SwiftU
   * [SwiftUI Crypto App](https://www.youtube.com/watch?v=TTYKL6CfbSs&list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu&ab_channel=SwiftfulThinking)
   * [SwiftUI Bootcamp: Learn SwiftUI online for FREE](https://www.youtube.com/watch?v=-Yp0LS61Nxk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&ab_channel=SwiftfulThinking)
   * [SwiftUI Continued Learning](https://www.youtube.com/watch?v=S5e1eXL8Vpk&list=PLwvDm4VfkdpiagxAXCT33Rkwnc5IVhTar&ab_channel=SwiftfulThinking)
+  * [Swift Arcade](https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg)
+  * [Karin Prater](https://www.youtube.com/c/PhysicsNerdDev/featured)
+  * [CS193p - Developing Applications for iOS using SwiftUI](https://www.youtube.com/watch?v=bqu6BquVi2M&list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu&index=1&ab_channel=Stanford)
+
 
   #### Other:
   * [POINT FREE](https://www.pointfree.co/)
